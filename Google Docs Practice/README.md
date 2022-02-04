@@ -1,6 +1,5 @@
-[
 # **Google Docs offered by Google Cloud**
-](https://www.coursera.org/learn/google-docs)
+https://www.coursera.org/learn/google-docs
 
 # _Tips and Tricks:_
 
