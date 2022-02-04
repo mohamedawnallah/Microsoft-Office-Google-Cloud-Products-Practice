@@ -1,5 +1,15 @@
 # **Google Docs offered by Google Cloud**
-https://www.coursera.org/learn/google-docs
+With Google Docs, your documents are stored in the cloud, and you can access them from any computer or device. You create and edit documents right in your web browser; no special software is required. Even better, multiple people can work at the same time, you can see people’s changes as they make them, and every change is saved automatically.
+
+In this course, you will learn how to open Google Docs, create and format a new document, and apply a template to a new document.
+
+You will learn how to enhance your documents using a table of contents, headers and footers, tables, drawings, images, and more.
+
+You will learn how to share your documents with others. We will discuss your sharing options and examine collaborator roles and permissions. You will learn how to manage versions of your documents.
+
+Google Docs allows you to work in real time with others on the same document. You will learn how to create and manage comments and action items in your documents.
+
+We will review a few of the Google Docs tools. You will understand how to set your preferences to suit your own work style and explore how to use tools such as Google Explore to add value to your content.
 
 # _Tips and Tricks:_
 
